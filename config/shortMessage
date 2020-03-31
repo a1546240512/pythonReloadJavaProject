@@ -1,0 +1,8 @@
+{
+    "SignName":"网络公司",
+    "PhoneNumbers":["178165165165$小新"],
+    "TemplateCode":"SMS_1858435749",
+    "ACCESSKEYID":"LTAIpLOA9dQTkklj",
+    "ACCESSSECRET":"stO3jIiUyPgNwWXEDUdxHr6j95omKO",
+    "TemplateParam":{"returnDomain": "projectName"}
+}
